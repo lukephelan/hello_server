@@ -1,0 +1,7 @@
+[package]
+name = "hello_server"
+version = "0.1.0"
+authors = ["Luke Phelan <luke.phelan@hotmail.com>"]
+edition = "2018"
+
+[dependencies]
